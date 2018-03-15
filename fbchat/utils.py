@@ -84,6 +84,7 @@ GENDERS = {
 
 class ReqUrl(object):
     """A class containing all urls used by `fbchat`"""
+    https://www.facebook.com/ajax/mercury/composer_query.php
     SEARCH = "https://www.facebook.com/ajax/typeahead/search.php"
     LOGIN = "https://m.facebook.com/login.php?login_attempt=1"
     SEND = "https://www.facebook.com/messaging/send/"
